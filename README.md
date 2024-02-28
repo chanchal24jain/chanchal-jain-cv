@@ -6,7 +6,7 @@ This webpage serves as a digital representation of Chanchal's professional backg
 You can view the live CV by visiting the following link:
 
 Chanchal Jain's CV:
-https://chanchal24jain.github.io/chanchaljain.github.io/
+https://chanchal24jain.github.io/chanchaljain
 
 Feel free to explore the content and design. If you have any questions or feedback, please reach out.
 
